@@ -13,6 +13,9 @@ https://memepump.gitbook.io/bot
 @MPVolumeMakerSolana_Bot \
 @MPMarketMakerSolana_Bot
 
+## Bumping Bot for PumpFun
+@MPVolumeMakerPF_Bot
+
 # Holder Bot
 @MPHolderMakerSolana_Bot
 
