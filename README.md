@@ -1,6 +1,6 @@
 # 🏅Volume Bot🏅
 
-These are for sniper launch with multiple wallets and boosting meme coins on hot trending using Volume and Holder bots.
+Boosting meme coins on hot trending using Volume Bot and Holder bot.
 
 ## Website
 https://memepump.net
