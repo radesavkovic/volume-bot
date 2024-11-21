@@ -1,6 +1,6 @@
 # 🏅Volume Bot🏅
 
-Boosting meme coins on hot trending using Volume Bot and Holder bot.
+Boosting meme coins on hot trending using Volume Bot and Holder Bot.
 
 ## Website
 https://memepump.net
